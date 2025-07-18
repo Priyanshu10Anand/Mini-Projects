@@ -314,4 +314,4 @@ while True:
         break
     else:
         pass
-print("THANK YOU",name,"powered by PRIYANSHU ANAND ", "under the guidance of MR.RAVI KUMAR SINGH")
+print("THANK YOU",name,"powered by PRIYANSHU ANAND ")
