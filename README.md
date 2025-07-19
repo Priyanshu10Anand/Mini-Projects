@@ -10,7 +10,7 @@ Each mini project is organized in its own folder with all relevant files. Most p
 
 ```plaintext
 mini-projects/
-├── calculator-cli/
+├── minimal-calculator/
 │   ├── main.py
 │   └── README.md
 ├── to-do-list-gui/
