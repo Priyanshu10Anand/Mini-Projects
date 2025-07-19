@@ -6,20 +6,23 @@
 
 ## ✨ Features
 
-* ✅ Add, complete, and delete tasks
-* 🏷️ Add, select, and manage custom tags
-* 🧹 Filter tasks by tag
-* 🛠️ Edit tag names or delete tags
-* 📱 Responsive and accessible UI
-* 🎹 Full keyboard support for task input
+- ✅ Add, complete, and delete tasks
+- 🏷️ Add, select, and manage custom tags
+- 🧹 Filter tasks by tag
+- 🛠️ Edit tag names or delete tags
+- 📱 Responsive and accessible UI
+- 🎹 Full keyboard support for task input
 
 ---
-
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
+```bash
+git clone https://github.com/Priyanshu10Anand/clean-slate-todo.git
+cd clean-slate-todo
+```
 
 ### 2. Install dependencies
 
@@ -39,23 +42,23 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🔧 Tech Stack
 
-* **React** (functional components + hooks)
-* **TailwindCSS** for styling
-* **lucide-react** for icons
-* **Vite** for fast dev experience
+- **React** (functional components + hooks)
+- **TailwindCSS** for styling
+- **lucide-react** for icons
+- **Vite** for fast dev experience
 
 ---
 
 ## 🧠 Functionality Overview
 
-| Feature       | Description                                                 |
-| ------------- | ----------------------------------------------------------- |
+| Feature       | Description                                                  |
+| ------------- | ------------------------------------------------------------ |
 | Add Task      | Write a task in input and press Enter or click ➕            |
-| Tag Tasks     | Select from existing tags or type a new one and press Enter |
-| Filter by Tag | Click tag buttons to view only tasks with that tag          |
-| Edit Tags     | Click ✎ to rename a tag inline and 💾 to save               |
+| Tag Tasks     | Select from existing tags or type a new one and press Enter  |
+| Filter by Tag | Click tag buttons to view only tasks with that tag           |
+| Edit Tags     | Click ✎ to rename a tag inline and 💾 to save                |
 | Delete Tags   | Click ❌ next to a tag to delete it and remove it from tasks |
-| Toggle Task   | Click the circle to mark a task complete/incomplete         |
+| Toggle Task   | Click the circle to mark a task complete/incomplete          |
 | Delete Task   | Hover over a task and click ❌ to remove                     |
 
 ---
@@ -77,11 +80,11 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🧩 Possible Enhancements
 
-* Persistent storage (e.g. LocalStorage or Firebase)
-* Due dates and reminders
-* Light/dark theme toggle
-* Drag-and-drop task sorting
-* Subtasks or checklists
+- Persistent storage (e.g. LocalStorage or Firebase)
+- Due dates and reminders
+- Light/dark theme toggle
+- Drag-and-drop task sorting
+- Subtasks or checklists
 
 ---
 
@@ -91,4 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Built with ♥ by [Priyanshu Anand](https://github.com/Priyanshu10Anand)
+> Built with ♥ by [Your Name](https://github.com/yourusername)
