@@ -13,7 +13,7 @@ mini-projects/
 ├── minimal-calculator/
 │   ├── main.py
 │   └── README.md
-├── to-do-list-gui/
+├── clean-slate-todo/
 │   ├── app.py
 │   └── requirements.txt
 ├── weather-fetcher/
