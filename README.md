@@ -14,7 +14,7 @@ mini-projects/
 │   ├── main.py
 │   └── README.md
 ├── clean-slate-todo/
-│   ├── app.py
+│   ├── app.js
 │   └── requirements.txt
 ├── weather-fetcher/
 │   ├── weather.js
